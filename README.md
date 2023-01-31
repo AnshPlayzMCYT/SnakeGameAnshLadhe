@@ -1,6 +1,6 @@
 # AnshLadhe-Snakegame
 ## Goal
-Show Your Gaming Skill By Playing This Awosome Snkae Game
+Show Your Gaming Skill By Playing This Awosome Snake Game
 It Is Endlesss!!
 ## Controls
 Use Arrow Key To Control The Game
